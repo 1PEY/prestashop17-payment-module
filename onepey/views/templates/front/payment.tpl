@@ -1,0 +1,1 @@
+<h2>{l s='Payment' mod='onepey'}</h2>
